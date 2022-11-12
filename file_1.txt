@@ -5,6 +5,8 @@ This line implements featureA in the project source code
 ome more change
 Hello Everyone
 dlbndflblfdg
+<<<<<<< HEAD
 fl bgfb
+This is merge on main  
+This commit comes from dev2
 
-This is merge on main 
